@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<URL>https://xform-stage.janeirodigital.com/login</URL>
+	<GoogleExe>C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe</GoogleExe>
+	<GoogleBinary>C:\\uti\\AutomationLibs\\Browsers\\chromedriver.exe</GoogleBinary>
+	<FireFoxBinary>C:\\uti\\AutomationLibs\\Browsers\\geckodriver.exe</FireFoxBinary>
+	<IEBinary>C:\\uti\\AutomationLibs\\Browsers\\MicrosoftWebDriver.exe</IEBinary>
+	<ParameterFile>./Controllers/src/resource/ParameterFile.xlsx</ParameterFile>
+</config>
